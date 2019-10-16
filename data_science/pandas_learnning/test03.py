@@ -1,6 +1,8 @@
+# In[1]
 import pandas as pd
 import numpy as np
 
+# In[2]
 ser = pd.Series([4.5,7.2,-5.3,3.6], index=['d','b','a','c'])
 print(ser)
 
@@ -14,6 +16,7 @@ df1 = pd.DataFrame({
 print(df1)
 print("\n")
 
+# In[3]
 df2 = pd.DataFrame([
   [1, 'San Diego', 100],
   [2, 'Los Angeles', 120],
@@ -29,5 +32,6 @@ df2 = pd.DataFrame([
 print(df2)
 print("\n")
 
+# In[4]
 df3 = pd.DataFrame(np.arange(9).reshape(3,3), index=['a','c','d'], columns=['oh','te','ca'])
 print(df3)
