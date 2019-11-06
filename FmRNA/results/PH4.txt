@@ -1,0 +1,14 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$MYOD_01                 1219 (+)  1.000  0.979  cagCAGGTgttg                       MyoD
+V$NKX25_01                1747 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$MYOGNF1_01              1979 (-)  1.000  0.796  tgagggctctttGCCAAtcttgacctttc      myogenin
+                                                                                     /
+                                                                                     NF-1
+V$COMP1_01                1980 (-)  1.000  0.841  gagggctctttgcCAATCttgacc           COMP1
+
+
+ Total sequences length=2109
+ Total number of sites found=4
+ Frequency of sites per nucleotide=0.001897

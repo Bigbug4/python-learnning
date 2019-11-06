@@ -1,0 +1,6 @@
+matrix_identifier	position	core_match	matrix_match	sequence	factor_names
+V$CAAT_01	200 (-)	1.000	0.984	tcATTGGctttg	CCAAT box
+V$OCT1_Q6	209 (-)	1.000	0.987	ttgaTTTGCatctct	Oct-1
+V$HNF4_01	299 (-)	1.000	0.959	tcatgtcCTTTGtccgctt	HNF-4
+V$CMYB_01	1670 (+)	1.000	0.978	cctccaggcgGTTGGcag	c-Myb
+V$ELK1_02	1689 (+)	1.000	0.981	gccgcCGGAAggtg	Elk-1

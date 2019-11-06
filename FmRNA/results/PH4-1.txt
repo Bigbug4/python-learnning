@@ -1,0 +1,7 @@
+matrix_identifier	position	core_match	matrix_match	sequence	factor_names
+V$MYOD_01	1219 (+)	1.000	0.979	cagCAGGTgttg	MyoD
+V$NKX25_01	1747 (-)	1.000	1.000	CACTTga	Nkx2-5
+V$MYOGNF1_01	1979 (-)	1.000	0.796	tgagggctctttGCCAAtcttgacctttc	myogenin
+	/
+	NF-1
+V$COMP1_01	1980 (-)	1.000	0.841	gagggctctttgcCAATCttgacc	COMP1

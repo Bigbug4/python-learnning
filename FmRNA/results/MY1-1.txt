@@ -1,0 +1,3 @@
+matrix_identifier	position	core_match	matrix_match	sequence	factor_names
+V$HNF4_01	1804 (-)	1.000	0.974	cagtggcCTTTGtccccct	HNF-4
+V$PAX4_01	1987 (+)	1.000	0.838	tggggTCATGaggtatccggg	Pax-4

@@ -1,0 +1,2 @@
+matrix_identifier	position	core_match	matrix_match	sequence	factor_names
+V$HNF4_01	1804 (-)	1.000	0.974	cagtggcCTTTGtccccct	HNF-4

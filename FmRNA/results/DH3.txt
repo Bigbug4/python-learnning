@@ -1,0 +1,13 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$EVI1_04                  467 (-)  0.842  0.851  tATTTTctcttacct                    Evi-1
+V$EVI1_04                  581 (-)  1.000  0.845  tATCTTtacatatgt                    Evi-1
+V$CEBP_C                   893 (+)  1.000  0.951  aggctgtaGCAATtcaca                 C/EBP
+V$EVI1_04                 1328 (-)  0.842  0.870  tATTTTatcatctca                    Evi-1
+V$AP1_Q4                  2294 (+)  1.000  0.994  agTGACTcaca                        AP-1
+
+
+ Total sequences length=2557
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.001955
