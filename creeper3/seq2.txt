@@ -1,5 +1,0 @@
-matrix_identifier	position	core_match	matrix_match	sequence	factor_names
-V$STAF_02	480 (+)	1.000	0.965	attTCCCAaaatcccttgcta	Staf
-V$CHOP_01	815 (+)	1.000	0.970	tagTGCAAttgcc	CHOP-C/EBPalpha
-V$NKX25_01	1419 (-)	1.000	1.000	CACTTga	Nkx2-5
-V$NKX25_01	1838 (-)	1.000	1.000	CACTTga	Nkx2-5
