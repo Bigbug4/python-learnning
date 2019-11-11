@@ -1,0 +1,16 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$CDPCR1_01                834 (-)  0.929  0.925  cccaTCAATa                         CDP CR1
+V$EVI1_04                  918 (+)  1.000  0.830  ggaaaaaatAAGATc                    Evi-1
+V$GATA3_03                 926 (-)  1.000  0.997  taAGATCtat                         GATA-3
+V$HNF4_01                 1491 (-)  1.000  0.897  gaaagccCTTTGttcgctt                HNF-4
+V$GATA2_02                1670 (-)  1.000  1.000  tcTTATCtct                         GATA-2
+V$GATA2_03                1670 (-)  1.000  1.000  tcTTATCtct                         GATA-2
+V$AP1_Q4                  1862 (+)  1.000  0.992  agTGACTcaaa                        AP-1
+V$OCT1_Q6                 2036 (+)  1.000  0.903  ggctctGCAAAtcac                    Oct-1
+
+
+ Total sequences length=2056
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003891

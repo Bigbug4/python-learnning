@@ -1,0 +1,30 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  179 (-)  0.909  0.934  atcaTTTACatgttc                    Oct-1
+V$SOX9_B1                  255 (+)  1.000  0.995  actgaACAATggac                     SOX-9
+V$NFKB_Q6                  825 (+)  1.000  0.968  tgGGGAAttccctg                     NF-kappaB
+V$CREL_01                  826 (+)  0.973  0.983  ggggaATTCC                         c-Rel
+V$NFKAPPAB_01              827 (+)  1.000  0.997  GGGAAttccc                         NF-kappaB
+V$NFKAPPAB_01              827 (-)  1.000  0.997  gggaaTTCCC                         NF-kappaB
+V$COMP1_01                1380 (+)  0.914  0.809  actgttCATTGgccaagcaaacag           COMP1
+
+
+ Total sequences length=2088
+ Total number of sites found=7
+ Frequency of sites per nucleotide=0.003352
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  179 (-)  0.909  0.934  atcaTTTACatgttc                    Oct-1
+V$SOX9_B1                  255 (+)  1.000  0.995  actgaACAATggac                     SOX-9
+V$NFKB_Q6                  825 (+)  1.000  0.968  tgGGGAAttccctg                     NF-kappaB
+V$CREL_01                  826 (+)  0.973  0.983  ggggaATTCC                         c-Rel
+V$NFKAPPAB_01              827 (+)  1.000  0.997  GGGAAttccc                         NF-kappaB
+V$NFKAPPAB_01              827 (-)  1.000  0.997  gggaaTTCCC                         NF-kappaB
+V$COMP1_01                1380 (+)  0.914  0.809  actgttCATTGgccaagcaaacag           COMP1
+
+
+ Total sequences length=2088
+ Total number of sites found=7
+ Frequency of sites per nucleotide=0.003352

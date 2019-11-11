@@ -1,0 +1,33 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  171 (-)  0.909  0.934  atcaTTTACatgttc                    Oct-1
+V$SOX9_B1                  247 (+)  1.000  0.995  actgaACAATggac                     SOX-9
+V$NFKB_Q6                  817 (+)  1.000  0.968  tgGGGAAttccctg                     NF-kappaB
+V$CREL_01                  818 (+)  0.973  0.983  ggggaATTCC                         c-Rel
+V$NFKAPPAB_01              819 (+)  1.000  0.997  GGGAAttccc                         NF-kappaB
+V$NFKAPPAB_01              819 (-)  1.000  0.997  gggaaTTCCC                         NF-kappaB
+V$PAX6_01                 1357 (+)  0.792  0.800  attgtTTAAGcttaaactgtt              Pax-6
+V$COMP1_01                1372 (+)  0.914  0.809  actgttCATTGgccaagcaaacag           COMP1
+
+
+ Total sequences length=2080
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003846
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  171 (-)  0.909  0.934  atcaTTTACatgttc                    Oct-1
+V$SOX9_B1                  247 (+)  1.000  0.995  actgaACAATggac                     SOX-9
+V$ELK1_02                  368 (-)  1.000  0.984  cagcTTCCGgcaaa                     Elk-1
+V$NFKB_Q6                  817 (+)  1.000  0.968  tgGGGAAttccctg                     NF-kappaB
+V$CREL_01                  818 (+)  0.973  0.983  ggggaATTCC                         c-Rel
+V$NFKAPPAB_01              819 (+)  1.000  0.997  GGGAAttccc                         NF-kappaB
+V$NFKAPPAB_01              819 (-)  1.000  0.997  gggaaTTCCC                         NF-kappaB
+V$PAX6_01                 1357 (+)  0.792  0.800  attgtTTAAGcttaaactgtt              Pax-6
+V$COMP1_01                1372 (+)  0.914  0.809  actgttCATTGgccaagcaaacag           COMP1
+
+
+ Total sequences length=2080
+ Total number of sites found=9
+ Frequency of sites per nucleotide=0.004327

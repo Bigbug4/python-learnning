@@ -1,0 +1,65 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  458 (-)  1.000  0.896  ctcaTTTGCaggctg                    Oct-1
+V$PAX6_01                  488 (+)  1.000  0.827  cccaaTCACGtttcagtgtgg              Pax-6
+V$CAAT_01                  639 (-)  1.000  0.983  tcATTGGcttta                       CCAAT box
+V$CMYB_01                  929 (+)  1.000  0.974  catgatgacaGTTGGctg                 c-Myb
+V$HNF4_01                 1150 (+)  1.000  0.916  aaaggacCAAAGatcctgt                HNF-4
+V$HNF4_01                 1461 (+)  1.000  0.907  acaagcaCAAAGgccttct                HNF-4
+V$NKX25_01                1633 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$FREAC7_01               1861 (+)  1.000  0.993  tccacATAAAcatgat                   Freac-7
+
+
+ Total sequences length=2188
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003656
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  434 (-)  1.000  0.896  ctcaTTTGCaggctg                    Oct-1
+V$PAX6_01                  464 (+)  1.000  0.827  cccaaTCACGtttcagtgtgg              Pax-6
+V$CAAT_01                  615 (-)  1.000  0.983  tcATTGGcttta                       CCAAT box
+V$CMYB_01                  905 (+)  1.000  0.974  catgatgacaGTTGGctg                 c-Myb
+V$HNF4_01                 1126 (+)  1.000  0.916  aaaggacCAAAGatcctgt                HNF-4
+V$HNF4_01                 1437 (+)  1.000  0.907  acaagcaCAAAGgccttct                HNF-4
+V$NKX25_01                1609 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$FREAC7_01               1837 (+)  1.000  0.993  tccacATAAAcatgat                   Freac-7
+
+
+ Total sequences length=2164
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003697
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$NKX25_01                   8 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$OCT1_Q6                  515 (-)  1.000  0.896  ctcaTTTGCaggctg                    Oct-1
+V$PAX6_01                  545 (+)  1.000  0.827  cccaaTCACGtttcagtgtgg              Pax-6
+V$CAAT_01                  696 (-)  1.000  0.983  tcATTGGcttta                       CCAAT box
+V$CMYB_01                  986 (+)  1.000  0.974  catgatgacaGTTGGctg                 c-Myb
+V$HNF4_01                 1207 (+)  1.000  0.916  aaaggacCAAAGatcctgt                HNF-4
+V$HNF4_01                 1518 (+)  1.000  0.907  acaagcaCAAAGgccttct                HNF-4
+V$NKX25_01                1690 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$FREAC7_01               1918 (+)  1.000  0.993  tccacATAAAcatgat                   Freac-7
+
+
+ Total sequences length=2245
+ Total number of sites found=9
+ Frequency of sites per nucleotide=0.004009
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  458 (-)  1.000  0.896  ctcaTTTGCaggctg                    Oct-1
+V$PAX6_01                  488 (+)  1.000  0.827  cccaaTCACGtttcagtgtgg              Pax-6
+V$CAAT_01                  639 (-)  1.000  0.983  tcATTGGcttta                       CCAAT box
+V$CMYB_01                  929 (+)  1.000  0.974  catgatgacaGTTGGctg                 c-Myb
+V$HNF4_01                 1150 (+)  1.000  0.916  aaaggacCAAAGatcctgt                HNF-4
+V$HNF4_01                 1461 (+)  1.000  0.907  acaagcaCAAAGgccttct                HNF-4
+V$NKX25_01                1633 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$FREAC7_01               1861 (+)  1.000  0.993  tccacATAAAcatgat                   Freac-7
+
+
+ Total sequences length=2188
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003656

@@ -1,0 +1,49 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  117 (-)  1.000  0.926  agcagaaCTTTGaacccag                HNF-4
+V$OCT1_Q6                 1451 (+)  0.838  0.891  aaaaatACAAAtcaa                    Oct-1
+V$NKX25_01                1564 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$NKX25_01                1825 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+
+
+ Total sequences length=2100
+ Total number of sites found=4
+ Frequency of sites per nucleotide=0.001905
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  117 (-)  1.000  0.926  agcagaaCTTTGaacccag                HNF-4
+V$OCT1_Q6                 1451 (+)  0.838  0.891  aaaaatACAAAtcaa                    Oct-1
+V$NKX25_01                1564 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$NKX25_01                1825 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+
+
+ Total sequences length=2027
+ Total number of sites found=4
+ Frequency of sites per nucleotide=0.001973
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  122 (-)  1.000  0.926  agcagaaCTTTGaacccag                HNF-4
+V$OCT1_Q6                 1456 (+)  0.838  0.891  aaaaatACAAAtcaa                    Oct-1
+V$NKX25_01                1569 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$NKX25_01                1830 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+
+
+ Total sequences length=2032
+ Total number of sites found=4
+ Frequency of sites per nucleotide=0.001969
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$CREL_01                   21 (-)  1.000  0.991  GGAAAtcccg                         c-Rel
+V$HNF4_01                  198 (-)  1.000  0.926  agcagaaCTTTGaacccag                HNF-4
+V$OCT1_Q6                 1532 (+)  0.838  0.891  aaaaatACAAAtcaa                    Oct-1
+V$NKX25_01                1645 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$NKX25_01                1906 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+
+
+ Total sequences length=2108
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002372

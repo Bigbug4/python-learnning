@@ -1,0 +1,16 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                 334 (-)  0.914  0.812  tcttgatggaaggCAATGaagagc           COMP1
+V$EVI1_04                  381 (+)  0.842  0.851  aggtaagagAAGTTa                    Evi-1
+V$CP2_01                  1018 (+)  0.974  0.972  gcaccaGCCAG                        CP2
+V$VMAF_01                 1369 (-)  1.000  0.947  gacagctgggTCAGCacca                v-Maf
+V$MYOGNF1_01              1372 (-)  0.929  0.782  agctgggtcagcACCAAggacaagggccc      myogenin
+                                                                                     /
+                                                                                     NF-1
+V$PAX4_01                 1791 (-)  0.977  0.887  ctggacacaccCGTGActtcg              Pax-4
+
+
+ Total sequences length=2132
+ Total number of sites found=6
+ Frequency of sites per nucleotide=0.002814

@@ -1,0 +1,32 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$STAF_02                  480 (+)  1.000  0.965  attTCCCAaaatcccttgcta              Staf
+V$CHOP_01                  815 (+)  1.000  0.970  tagTGCAAttgcc                      CHOP-C/EBPalpha
+V$EVI1_04                  877 (-)  0.763  0.841  tATATTttcataaca                    Evi-1
+V$COMP1_01                1058 (+)  1.000  0.838  agactcGATTGacaatgtcaactc           COMP1
+V$NKX25_01                1419 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$HNF1_01                 1504 (+)  1.000  0.931  ggTTAATtatcatca                    HNF-1
+V$EVI1_04                 1531 (+)  0.842  0.829  aattaagatAAAATa                    Evi-1
+V$NKX25_01                1838 (-)  1.000  1.000  CACTTga                            Nkx2-5
+
+
+ Total sequences length=2095
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003819
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$STAF_02                  514 (+)  1.000  0.965  attTCCCAaaatcccttgcta              Staf
+V$CHOP_01                  849 (+)  1.000  0.970  tagTGCAAttgcc                      CHOP-C/EBPalpha
+V$EVI1_04                  911 (-)  0.763  0.841  tATATTttcataaca                    Evi-1
+V$COMP1_01                1092 (+)  1.000  0.838  agactcGATTGacaatgtcaactc           COMP1
+V$NKX25_01                1453 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$HNF1_01                 1538 (+)  1.000  0.931  ggTTAATtatcatca                    HNF-1
+V$EVI1_04                 1565 (+)  0.842  0.829  aattaagatAAAATa                    Evi-1
+V$NKX25_01                1872 (-)  1.000  1.000  CACTTga                            Nkx2-5
+
+
+ Total sequences length=2123
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003768

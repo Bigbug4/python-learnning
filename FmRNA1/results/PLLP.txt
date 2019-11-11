@@ -1,0 +1,64 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$NKX25_01                 234 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$HAND1E47_01              392 (+)  1.000  0.976  gatggagTCTGGctct                   Hand1/E47
+V$PAX4_01                  588 (-)  1.000  0.889  ggtctcaaactCATGAcctct              Pax-4
+V$OCT1_Q6                  890 (+)  1.000  0.893  ttatatGCAAAaacc                    Oct-1
+V$NFKB_Q6                 1762 (-)  1.000  0.976  cgggaaaTTCCCag                     NF-kappaB
+V$NFKAPPAB65_01           1764 (-)  1.000  1.000  GGAAAttccc                         NF-kappaB
+                                                                                     (p65)
+V$CREL_01                 1764 (-)  1.000  0.990  GGAAAttccc                         c-Rel
+V$NFKAPPAB_01             1764 (-)  1.000  1.000  ggaaaTTCCC                         NF-kappaB
+
+
+ Total sequences length=2132
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003752
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$NKX25_01                 223 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$HAND1E47_01              381 (+)  1.000  0.976  gatggagTCTGGctct                   Hand1/E47
+V$PAX4_01                  577 (-)  1.000  0.889  ggtctcaaactCATGAcctct              Pax-4
+V$OCT1_Q6                  879 (+)  1.000  0.893  ttatatGCAAAaacc                    Oct-1
+V$NFKB_Q6                 1751 (-)  1.000  0.976  cgggaaaTTCCCag                     NF-kappaB
+V$NFKAPPAB65_01           1753 (-)  1.000  1.000  GGAAAttccc                         NF-kappaB
+                                                                                     (p65)
+V$CREL_01                 1753 (-)  1.000  0.990  GGAAAttccc                         c-Rel
+V$NFKAPPAB_01             1753 (-)  1.000  1.000  ggaaaTTCCC                         NF-kappaB
+
+
+ Total sequences length=2121
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003772
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$MYOD_01                  334 (+)  1.000  0.971  gagCAGGTgctg                       MyoD
+V$VMAF_01                  998 (-)  1.000  0.919  aggtactcggTCAGCatca                v-Maf
+V$COMP1_01                1516 (+)  1.000  0.820  tgtcttGATTGgcaatggagcctt           COMP1
+V$HNF3B_01                1855 (-)  1.000  0.966  taaaaAAACActtct                    HNF-3beta
+V$MYOD_01                 2098 (+)  1.000  0.976  tgaCAGGTgctg                       MyoD
+
+
+ Total sequences length=2175
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002299
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$NKX25_01                 234 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$HAND1E47_01              392 (+)  1.000  0.976  gatggagTCTGGctct                   Hand1/E47
+V$PAX4_01                  588 (-)  1.000  0.889  ggtctcaaactCATGAcctct              Pax-4
+V$OCT1_Q6                  890 (+)  1.000  0.893  ttatatGCAAAaacc                    Oct-1
+V$NFKB_Q6                 1762 (-)  1.000  0.976  cgggaaaTTCCCag                     NF-kappaB
+V$NFKAPPAB65_01           1764 (-)  1.000  1.000  GGAAAttccc                         NF-kappaB
+                                                                                     (p65)
+V$CREL_01                 1764 (-)  1.000  0.990  GGAAAttccc                         c-Rel
+V$NFKAPPAB_01             1764 (-)  1.000  1.000  ggaaaTTCCC                         NF-kappaB
+
+
+ Total sequences length=2132
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003752

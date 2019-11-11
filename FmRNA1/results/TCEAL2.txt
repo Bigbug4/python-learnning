@@ -1,0 +1,32 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  268 (+)  1.000  0.949  ttacatGCAAAtgca                    Oct-1
+V$OCT1_Q6                  530 (-)  0.893  0.909  attaTTTTCatcaaa                    Oct-1
+V$OCT1_Q6                  805 (+)  1.000  0.891  tattttGCAAAtcaa                    Oct-1
+V$FREAC7_01                902 (+)  1.000  0.991  tataaATAAAcatgtg                   Freac-7
+V$CDPCR1_01               1092 (-)  1.000  0.944  gggaTCGATg                         CDP CR1
+V$CDPCR3HD_01             1092 (-)  1.000  0.999  gggATCGAtg                         CDP CR3+HD
+V$NKX25_01                1240 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$USF_Q6                  1923 (+)  1.000  0.979  cTCACGtgac                         USF
+
+
+ Total sequences length=2199
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003638
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                  292 (+)  1.000  0.949  ttacatGCAAAtgca                    Oct-1
+V$OCT1_Q6                  554 (-)  0.893  0.909  attaTTTTCatcaaa                    Oct-1
+V$OCT1_Q6                  829 (+)  1.000  0.891  tattttGCAAAtcaa                    Oct-1
+V$FREAC7_01                926 (+)  1.000  0.991  tataaATAAAcatgtg                   Freac-7
+V$CDPCR1_01               1116 (-)  1.000  0.944  gggaTCGATg                         CDP CR1
+V$CDPCR3HD_01             1116 (-)  1.000  0.999  gggATCGAtg                         CDP CR3+HD
+V$NKX25_01                1264 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$USF_Q6                  1947 (+)  1.000  0.979  cTCACGtgac                         USF
+
+
+ Total sequences length=2228
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003591

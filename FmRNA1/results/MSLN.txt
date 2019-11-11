@@ -1,0 +1,116 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$PAX4_01                    4 (-)  0.979  0.878  ggtctcgaactCCTGAcctca              Pax-4
+V$USF_C                    385 (-)  1.000  1.000  gcACGTGg                           USF
+V$MYOGNF1_01               461 (+)  1.000  0.793  ccttggtttcctTTGGCctttggccggga      myogenin
+                                                                                     /
+                                                                                     NF-1
+V$HNF4_01                  471 (-)  1.000  0.963  ctttggcCTTTGgccggga                HNF-4
+V$HAND1E47_01              683 (+)  1.000  0.987  aagagtgTCTGGaatt                   Hand1/E47
+V$PAX4_01                 1237 (+)  0.979  0.894  gggggTCAGGcttgtgctccc              Pax-4
+V$PAX4_01                 1604 (+)  0.881  0.840  gggcgTGAGGcgccaccactc              Pax-4
+V$COMP1_01                1728 (-)  1.000  0.804  gctcaggtgtggcCAATCaccctg           COMP1
+V$CAAT_01                 1735 (+)  1.000  0.981  tgtggCCAATca                       CCAAT box
+V$PAX4_01                 2026 (+)  0.879  0.839  tgctgTGACGcgcggacagag              Pax-4
+
+
+ Total sequences length=2095
+ Total number of sites found=10
+ Frequency of sites per nucleotide=0.004773
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$AP1_Q4                    88 (-)  1.000  0.992  cgtgAGTCAct                        AP-1
+V$NKX25_01                 214 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$OCT1_Q6                  280 (-)  0.893  0.924  ttaaTTTTCatattt                    Oct-1
+V$PAX4_01                  331 (-)  0.979  0.878  ggtctcgaactCCTGAcctca              Pax-4
+V$USF_C                    712 (-)  1.000  1.000  gcACGTGg                           USF
+V$MYOGNF1_01               788 (+)  1.000  0.793  ccttggtttcctTTGGCctttggccggga      myogenin
+                                                                                     /
+                                                                                     NF-1
+V$HNF4_01                  798 (-)  1.000  0.963  ctttggcCTTTGgccggga                HNF-4
+V$HAND1E47_01             1010 (+)  1.000  0.987  aagagtgTCTGGaatt                   Hand1/E47
+V$PAX4_01                 1564 (+)  0.979  0.894  gggggTCAGGcttgtgctccc              Pax-4
+V$PAX4_01                 1931 (+)  0.881  0.840  gggcgTGAGGcgccaccactc              Pax-4
+
+
+ Total sequences length=2111
+ Total number of sites found=10
+ Frequency of sites per nucleotide=0.004737
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$AP1_Q4                   116 (-)  1.000  0.992  cgtgAGTCAct                        AP-1
+V$NKX25_01                 242 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$OCT1_Q6                  308 (-)  0.893  0.924  ttaaTTTTCatattt                    Oct-1
+V$PAX4_01                  359 (-)  0.979  0.878  ggtctcgaactCCTGAcctca              Pax-4
+V$USF_C                    740 (-)  1.000  1.000  gcACGTGg                           USF
+V$MYOGNF1_01               816 (+)  1.000  0.793  ccttggtttcctTTGGCctttggccggga      myogenin
+                                                                                     /
+                                                                                     NF-1
+V$HNF4_01                  826 (-)  1.000  0.963  ctttggcCTTTGgccggga                HNF-4
+V$HAND1E47_01             1038 (+)  1.000  0.987  aagagtgTCTGGaatt                   Hand1/E47
+V$PAX4_01                 1592 (+)  0.979  0.894  gggggTCAGGcttgtgctccc              Pax-4
+V$PAX4_01                 1959 (+)  0.881  0.840  gggcgTGAGGcgccaccactc              Pax-4
+V$PAX4_01                 2130 (+)  0.879  0.839  tgctgTGACGcgcggacagag              Pax-4
+
+
+ Total sequences length=2199
+ Total number of sites found=11
+ Frequency of sites per nucleotide=0.005002
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$USF_C                    376 (-)  1.000  1.000  gcACGTGg                           USF
+V$MYOGNF1_01               452 (+)  1.000  0.793  ccttggtttcctTTGGCctttggccggga      myogenin
+                                                                                     /
+                                                                                     NF-1
+V$HNF4_01                  462 (-)  1.000  0.963  ctttggcCTTTGgccggga                HNF-4
+V$HAND1E47_01              674 (+)  1.000  0.987  aagagtgTCTGGaatt                   Hand1/E47
+V$PAX4_01                 1228 (+)  0.979  0.894  gggggTCAGGcttgtgctccc              Pax-4
+V$PAX4_01                 1595 (+)  0.881  0.840  gggcgTGAGGcgccaccactc              Pax-4
+V$COMP1_01                1719 (-)  1.000  0.804  gctcaggtgtggcCAATCaccctg           COMP1
+V$CAAT_01                 1726 (+)  1.000  0.981  tgtggCCAATca                       CCAAT box
+V$PAX4_01                 2017 (+)  0.879  0.839  tgctgTGACGcgcggacagag              Pax-4
+
+
+ Total sequences length=2086
+ Total number of sites found=9
+ Frequency of sites per nucleotide=0.004314
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$AP1_Q4                    83 (-)  1.000  0.992  cgtgAGTCAct                        AP-1
+V$NKX25_01                 209 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$OCT1_Q6                  275 (-)  0.893  0.924  ttaaTTTTCatattt                    Oct-1
+V$PAX4_01                  326 (-)  0.979  0.878  ggtctcgaactCCTGAcctca              Pax-4
+V$USF_C                    707 (-)  1.000  1.000  gcACGTGg                           USF
+V$MYOGNF1_01               783 (+)  1.000  0.793  ccttggtttcctTTGGCctttggccggga      myogenin
+                                                                                     /
+                                                                                     NF-1
+V$HNF4_01                  793 (-)  1.000  0.963  ctttggcCTTTGgccggga                HNF-4
+V$HAND1E47_01             1005 (+)  1.000  0.987  aagagtgTCTGGaatt                   Hand1/E47
+V$PAX4_01                 1559 (+)  0.979  0.894  gggggTCAGGcttgtgctccc              Pax-4
+V$PAX4_01                 1926 (+)  0.881  0.840  gggcgTGAGGcgccaccactc              Pax-4
+V$COMP1_01                2050 (-)  1.000  0.804  gctcaggtgtggcCAATCaccctg           COMP1
+V$CAAT_01                 2057 (+)  1.000  0.981  tgtggCCAATca                       CCAAT box
+V$PAX4_01                 2348 (+)  0.879  0.839  tgctgTGACGcgcggacagag              Pax-4
+
+
+ Total sequences length=2417
+ Total number of sites found=13
+ Frequency of sites per nucleotide=0.005379
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$PAX4_01                  169 (+)  0.881  0.840  gggcgTGAGGcgccaccactc              Pax-4
+V$COMP1_01                 293 (-)  1.000  0.804  gctcaggtgtggcCAATCaccctg           COMP1
+V$CAAT_01                  300 (+)  1.000  0.981  tgtggCCAATca                       CCAAT box
+V$PAX4_01                  591 (+)  0.879  0.839  tgctgTGACGcgcggacagag              Pax-4
+V$ER_Q6                    983 (-)  1.000  0.960  ttgGGTCAcatggagctgg                ER
+
+
+ Total sequences length=2040
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002451

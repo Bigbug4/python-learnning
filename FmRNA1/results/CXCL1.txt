@@ -1,0 +1,23 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF3B_01                 448 (-)  1.000  0.980  taaacAAATAtttaa                    HNF-3beta
+V$FOXD3_01                 449 (-)  0.944  0.959  aaacaAATATtt                       FOXD3
+V$ARP1_01                 1086 (+)  0.924  0.902  tgagcCCATGagcctg                   ARP-1
+V$OCT1_02                 1371 (+)  1.000  0.995  gagaaTATGCaacac                    Oct-1
+V$EVI1_04                 1504 (+)  0.763  0.841  agagaggatAATATa                    Evi-1
+V$CDPCR1_01               1903 (-)  1.000  0.944  gggaTCGATc                         CDP CR1
+V$CDPCR3HD_01             1903 (-)  1.000  1.000  gggATCGAtc                         CDP CR3+HD
+V$CDPCR1_01               1905 (+)  1.000  0.930  gATCGAtctg                         CDP CR1
+V$CDPCR3HD_01             1905 (+)  1.000  0.990  gaTCGATctg                         CDP CR3+HD
+V$NFKB_Q6                 1920 (+)  1.000  0.964  ccGGGAAtttccct                     NF-kappaB
+V$NFKAPPAB65_01           1922 (+)  1.000  1.000  gggaaTTTCC                         NF-kappaB
+                                                                                     (p65)
+V$CREL_01                 1922 (+)  1.000  0.990  gggaaTTTCC                         c-Rel
+V$NFKAPPAB_01             1922 (+)  1.000  1.000  GGGAAtttcc                         NF-kappaB
+V$CREL_01                 1947 (+)  1.000  0.990  cgggcTTTCC                         c-Rel
+
+
+ Total sequences length=2078
+ Total number of sites found=14
+ Frequency of sites per nucleotide=0.006737

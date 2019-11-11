@@ -1,0 +1,11 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$CEBP_C                   681 (-)  0.941  0.943  ggtccCTTCCacaacacg                 C/EBP
+V$OCT1_Q6                 1470 (-)  0.909  0.910  aggaTTTACatattc                    Oct-1
+V$HLF_01                  1967 (-)  0.892  0.932  attacATAAC                         HLF
+
+
+ Total sequences length=2227
+ Total number of sites found=3
+ Frequency of sites per nucleotide=0.001347

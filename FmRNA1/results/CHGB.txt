@@ -1,0 +1,34 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$PAX4_01                  365 (-)  0.979  0.838  ggtcttgaactCCTGAgctca              Pax-4
+V$GATA3_03                 564 (+)  1.000  0.997  ataGATCTta                         GATA-3
+V$SOX9_B1                  584 (-)  1.000  0.993  atccATTGTtccac                     SOX-9
+V$HNF4_01                 1081 (+)  1.000  0.892  taaagacCAAAGggtaaca                HNF-4
+V$PAX6_01                 1205 (-)  0.778  0.817  aataagtcaaaCCTAAattat              Pax-6
+V$CREB_01                 1874 (+)  1.000  1.000  TGACGtca                           CREB
+V$CREB_01                 1874 (-)  1.000  1.000  tgaCGTCA                           CREB
+V$CREBP1CJUN_01           1874 (+)  1.000  1.000  tGACGTca                           CRE-BP1/c-Jun
+V$CREBP1CJUN_01           1874 (-)  1.000  1.000  tgACGTCa                           CRE-BP1/c-Jun
+
+
+ Total sequences length=2260
+ Total number of sites found=9
+ Frequency of sites per nucleotide=0.003982
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$PAX4_01                  385 (-)  0.979  0.838  ggtcttgaactCCTGAgctca              Pax-4
+V$GATA3_03                 584 (+)  1.000  0.997  ataGATCTta                         GATA-3
+V$SOX9_B1                  604 (-)  1.000  0.993  atccATTGTtccac                     SOX-9
+V$HNF4_01                 1101 (+)  1.000  0.892  taaagacCAAAGggtaaca                HNF-4
+V$PAX6_01                 1225 (-)  0.778  0.817  aataagtcaaaCCTAAattat              Pax-6
+V$CREB_01                 1894 (+)  1.000  1.000  TGACGtca                           CREB
+V$CREB_01                 1894 (-)  1.000  1.000  tgaCGTCA                           CREB
+V$CREBP1CJUN_01           1894 (+)  1.000  1.000  tGACGTca                           CRE-BP1/c-Jun
+V$CREBP1CJUN_01           1894 (-)  1.000  1.000  tgACGTCa                           CRE-BP1/c-Jun
+
+
+ Total sequences length=2124
+ Total number of sites found=9
+ Frequency of sites per nucleotide=0.004237

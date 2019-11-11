@@ -1,0 +1,90 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                 367 (-)  1.000  0.801  cttaattgatggcCAATCcatccc           COMP1
+V$NKX25_02                 367 (+)  1.000  1.000  ctTAATTg                           Nkx2-5
+V$CDPCR1_01                370 (+)  0.929  0.929  aATTGAtggc                         CDP CR1
+V$HNF4_01                  720 (-)  1.000  0.912  tatggccCTTTGttctctc                HNF-4
+V$MYOGNF1_01              1771 (-)  0.911  0.775  aagtggcccagcCCCAAcacagtcagaca      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2015
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002481
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                 389 (-)  1.000  0.801  cttaattgatggcCAATCcatccc           COMP1
+V$NKX25_02                 389 (+)  1.000  1.000  ctTAATTg                           Nkx2-5
+V$CDPCR1_01                392 (+)  0.929  0.929  aATTGAtggc                         CDP CR1
+V$HNF4_01                  742 (-)  1.000  0.912  tatggccCTTTGttctctc                HNF-4
+V$MYOGNF1_01              1793 (-)  0.911  0.775  aagtggcccagcCCCAAcacagtcagaca      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2037
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002455
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                 387 (-)  1.000  0.801  cttaattgatggcCAATCcatccc           COMP1
+V$NKX25_02                 387 (+)  1.000  1.000  ctTAATTg                           Nkx2-5
+V$CDPCR1_01                390 (+)  0.929  0.929  aATTGAtggc                         CDP CR1
+V$HNF4_01                  740 (-)  1.000  0.912  tatggccCTTTGttctctc                HNF-4
+V$MYOGNF1_01              1791 (-)  0.911  0.775  aagtggcccagcCCCAAcacagtcagaca      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2035
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002457
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                 375 (-)  1.000  0.801  cttaattgatggcCAATCcatccc           COMP1
+V$NKX25_02                 375 (+)  1.000  1.000  ctTAATTg                           Nkx2-5
+V$CDPCR1_01                378 (+)  0.929  0.929  aATTGAtggc                         CDP CR1
+V$HNF4_01                  728 (-)  1.000  0.912  tatggccCTTTGttctctc                HNF-4
+V$MYOGNF1_01              1779 (-)  0.911  0.775  aagtggcccagcCCCAAcacagtcagaca      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2023
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002472
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                 382 (-)  1.000  0.801  cttaattgatggcCAATCcatccc           COMP1
+V$NKX25_02                 382 (+)  1.000  1.000  ctTAATTg                           Nkx2-5
+V$CDPCR1_01                385 (+)  0.929  0.929  aATTGAtggc                         CDP CR1
+V$HNF4_01                  735 (-)  1.000  0.912  tatggccCTTTGttctctc                HNF-4
+V$MYOGNF1_01              1786 (-)  0.911  0.775  aagtggcccagcCCCAAcacagtcagaca      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2030
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002463
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                 396 (-)  1.000  0.801  cttaattgatggcCAATCcatccc           COMP1
+V$NKX25_02                 396 (+)  1.000  1.000  ctTAATTg                           Nkx2-5
+V$CDPCR1_01                399 (+)  0.929  0.929  aATTGAtggc                         CDP CR1
+V$HNF4_01                  749 (-)  1.000  0.912  tatggccCTTTGttctctc                HNF-4
+V$MYOGNF1_01              1800 (-)  0.911  0.775  aagtggcccagcCCCAAcacagtcagaca      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2005
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002494

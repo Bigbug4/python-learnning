@@ -1,0 +1,44 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$PAX4_01                  456 (+)  0.986  0.837  tgggtTCAAGcgattctcctg              Pax-4
+V$HNF1_01                  522 (+)  1.000  0.940  ggTTAATttttgtat                    HNF-1
+V$PAX4_01                  648 (-)  0.986  0.875  ggcatcgaactCTTGAcctca              Pax-4
+V$NKX25_01                 666 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$CREBP1CJUN_01           1731 (-)  1.000  1.000  taACGTCa                           CRE-BP1/c-Jun
+V$MYOD_01                 1771 (-)  1.000  0.979  caacACCTGctg                       MyoD
+
+
+ Total sequences length=2056
+ Total number of sites found=6
+ Frequency of sites per nucleotide=0.002918
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  197 (+)  1.000  0.929  tccagagCAAAGaacacag                HNF-4
+V$PAX4_01                  703 (+)  0.986  0.837  tgggtTCAAGcgattctcctg              Pax-4
+V$HNF1_01                  769 (+)  1.000  0.940  ggTTAATttttgtat                    HNF-1
+V$PAX4_01                  895 (-)  0.986  0.875  ggcatcgaactCTTGAcctca              Pax-4
+V$NKX25_01                 913 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$CREBP1CJUN_01           1978 (-)  1.000  1.000  taACGTCa                           CRE-BP1/c-Jun
+V$MYOD_01                 2018 (-)  1.000  0.979  caacACCTGctg                       MyoD
+
+
+ Total sequences length=2069
+ Total number of sites found=7
+ Frequency of sites per nucleotide=0.003383
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  182 (+)  1.000  0.929  tccagagCAAAGaacacag                HNF-4
+V$PAX4_01                  688 (+)  0.986  0.837  tgggtTCAAGcgattctcctg              Pax-4
+V$HNF1_01                  754 (+)  1.000  0.940  ggTTAATttttgtat                    HNF-1
+V$PAX4_01                  880 (-)  0.986  0.875  ggcatcgaactCTTGAcctca              Pax-4
+V$NKX25_01                 898 (+)  1.000  1.000  tcAAGTG                            Nkx2-5
+V$CREBP1CJUN_01           1963 (-)  1.000  1.000  taACGTCa                           CRE-BP1/c-Jun
+V$MYOD_01                 2003 (-)  1.000  0.979  caacACCTGctg                       MyoD
+
+
+ Total sequences length=2054
+ Total number of sites found=7
+ Frequency of sites per nucleotide=0.003408

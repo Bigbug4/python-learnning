@@ -1,0 +1,16 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$FOXJ2_02                 491 (+)  1.000  0.960  tacATAATattttt                     FOXJ2
+V$HNF4_01                  534 (+)  1.000  0.945  atatgttCAAAGtacaagt                HNF-4
+V$HNF3B_01                 658 (-)  1.000  0.983  taaaaAAATAattca                    HNF-3beta
+V$FOXD3_01                 659 (-)  0.948  0.951  aaaaaAATAAtt                       FOXD3
+V$PAX6_01                 1149 (-)  0.763  0.846  ttaaaataaagCTTTAagaaa              Pax-6
+V$PAX4_01                 1476 (-)  0.979  0.838  ggtcttgaactCCTGAgctca              Pax-4
+V$HLF_01                  1653 (+)  0.939  0.938  ATTACataat                         HLF
+V$PAX6_01                 1850 (+)  0.763  0.814  tctatTAAAGcatcattctgg              Pax-6
+
+
+ Total sequences length=2176
+ Total number of sites found=8
+ Frequency of sites per nucleotide=0.003676

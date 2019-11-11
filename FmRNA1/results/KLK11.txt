@@ -1,0 +1,90 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OLF1_01                  162 (-)  0.971  0.950  ccctcctccccTGGGAttggtc             Olf-1
+V$COMP1_01                 381 (+)  1.000  0.832  ccctggGATTGgcccctagagaca           COMP1
+V$FOXD3_01                1329 (-)  1.000  0.966  aaacaAACAAac                       FOXD3
+V$FOXD3_01                1333 (-)  1.000  0.960  aaacaAACAAaa                       FOXD3
+V$VMAF_01                 1855 (-)  0.874  0.893  agctgcaaagTCAACattt                v-Maf
+
+
+ Total sequences length=2131
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002346
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$FOXD3_01                 913 (-)  1.000  0.966  aaacaAACAAac                       FOXD3
+V$FOXD3_01                 917 (-)  1.000  0.960  aaacaAACAAaa                       FOXD3
+V$VMAF_01                 1439 (-)  0.874  0.893  agctgcaaagTCAACattt                v-Maf
+V$PAX4_01                 1732 (+)  0.881  0.854  gggagTGAGGggtgatcatac              Pax-4
+
+
+ Total sequences length=2106
+ Total number of sites found=4
+ Frequency of sites per nucleotide=0.001899
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OLF1_01                   77 (-)  0.971  0.950  ccctcctccccTGGGAttggtc             Olf-1
+V$COMP1_01                 296 (+)  1.000  0.832  ccctggGATTGgcccctagagaca           COMP1
+V$FOXD3_01                1244 (-)  1.000  0.966  aaacaAACAAac                       FOXD3
+V$FOXD3_01                1248 (-)  1.000  0.960  aaacaAACAAaa                       FOXD3
+V$VMAF_01                 1770 (-)  0.874  0.893  agctgcaaagTCAACattt                v-Maf
+
+
+ Total sequences length=2046
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002444
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$VMAF_01                  432 (-)  0.874  0.893  agctgcaaagTCAACattt                v-Maf
+V$PAX4_01                  725 (+)  0.881  0.854  gggagTGAGGggtgatcatac              Pax-4
+
+
+ Total sequences length=2114
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000946
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$CREL_01                 2016 (+)  1.000  1.000  ggggaTTTCC                         c-Rel
+
+
+ Total sequences length=2096
+ Total number of sites found=1
+ Frequency of sites per nucleotide=0.000477
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$VMAF_01                  432 (-)  0.874  0.893  agctgcaaagTCAACattt                v-Maf
+V$PAX4_01                  725 (+)  0.881  0.854  gggagTGAGGggtgatcatac              Pax-4
+
+
+ Total sequences length=2146
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000932
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$VMAF_01                  418 (-)  0.874  0.893  agctgcaaagTCAACattt                v-Maf
+V$PAX4_01                  711 (+)  0.881  0.854  gggagTGAGGggtgatcatac              Pax-4
+
+
+ Total sequences length=2100
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000952
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$COMP1_01                  45 (+)  1.000  0.832  ccctggGATTGgcccctagagaca           COMP1
+V$FOXD3_01                 993 (-)  1.000  0.966  aaacaAACAAac                       FOXD3
+V$FOXD3_01                 997 (-)  1.000  0.960  aaacaAACAAaa                       FOXD3
+V$VMAF_01                 1519 (-)  0.874  0.893  agctgcaaagTCAACattt                v-Maf
+V$PAX4_01                 1812 (+)  0.881  0.854  gggagTGAGGggtgatcatac              Pax-4
+
+
+ Total sequences length=2186
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002287

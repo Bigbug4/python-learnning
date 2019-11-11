@@ -1,0 +1,13 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  456 (+)  1.000  0.973  tgtgggaCAAAGggcagaa                HNF-4
+V$HNF1_C                   858 (-)  0.829  0.856  attgtcattgaTTTACa                  HNF-1
+V$CDPCR1_01                980 (+)  0.910  0.933  cATGGAtcgg                         CDP CR1
+V$OCT1_Q6                 1548 (-)  1.000  0.893  gaacTTTGCatccca                    Oct-1
+V$PAX6_01                 1971 (-)  0.818  0.820  ctaagatgaagCCTGAactga              Pax-6
+
+
+ Total sequences length=2090
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002392

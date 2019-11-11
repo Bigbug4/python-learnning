@@ -1,0 +1,74 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_06                   39 (-)  0.964  0.971  tacaTCACAatttg                     Oct-1
+V$OCT1_Q6                  127 (+)  1.000  0.935  tcctatGCAAAtatt                    Oct-1
+V$FOXD3_01                 454 (+)  0.996  0.954  aaATGTTtattc                       FOXD3
+V$GATA3_03                 464 (-)  1.000  0.982  tcAGATCttt                         GATA-3
+V$OCT1_Q6                 1099 (-)  1.000  0.949  gtccTTTGCattttc                    Oct-1
+V$EVI1_06                 1143 (-)  1.000  1.000  ttatCTTGT                          Evi-1
+V$PAX4_01                 1365 (+)  1.000  0.854  gggccTCATGtgtccaggggc              Pax-4
+V$MYOD_01                 1479 (+)  1.000  0.979  ggaCAGGTggtt                       MyoD
+V$HNF3B_01                1581 (-)  1.000  0.970  aaaagAAATAataca                    HNF-3beta
+V$OLF1_01                 1758 (+)  1.000  0.965  ggcaagTCCCCagagaagtggg             Olf-1
+V$MYOD_01                 1929 (-)  1.000  0.971  caccACCTGact                       MyoD
+
+
+ Total sequences length=2193
+ Total number of sites found=11
+ Frequency of sites per nucleotide=0.005016
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_06                   78 (-)  0.964  0.971  tacaTCACAatttg                     Oct-1
+V$OCT1_Q6                  166 (+)  1.000  0.935  tcctatGCAAAtatt                    Oct-1
+V$FOXD3_01                 493 (+)  0.996  0.954  aaATGTTtattc                       FOXD3
+V$GATA3_03                 503 (-)  1.000  0.982  tcAGATCttt                         GATA-3
+V$OCT1_Q6                 1138 (-)  1.000  0.949  gtccTTTGCattttc                    Oct-1
+V$EVI1_06                 1182 (-)  1.000  1.000  ttatCTTGT                          Evi-1
+V$PAX4_01                 1404 (+)  1.000  0.854  gggccTCATGtgtccaggggc              Pax-4
+V$MYOD_01                 1518 (+)  1.000  0.979  ggaCAGGTggtt                       MyoD
+V$HNF3B_01                1620 (-)  1.000  0.970  aaaagAAATAataca                    HNF-3beta
+V$OLF1_01                 1797 (+)  1.000  0.965  ggcaagTCCCCagagaagtggg             Olf-1
+V$MYOD_01                 1968 (-)  1.000  0.971  caccACCTGact                       MyoD
+
+
+ Total sequences length=2268
+ Total number of sites found=11
+ Frequency of sites per nucleotide=0.004850
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                   55 (+)  1.000  0.935  tcctatGCAAAtatt                    Oct-1
+V$FOXD3_01                 382 (+)  0.996  0.954  aaATGTTtattc                       FOXD3
+V$GATA3_03                 392 (-)  1.000  0.982  tcAGATCttt                         GATA-3
+V$OCT1_Q6                 1027 (-)  1.000  0.949  gtccTTTGCattttc                    Oct-1
+V$EVI1_06                 1071 (-)  1.000  1.000  ttatCTTGT                          Evi-1
+V$PAX4_01                 1293 (+)  1.000  0.854  gggccTCATGtgtccaggggc              Pax-4
+V$MYOD_01                 1407 (+)  1.000  0.979  ggaCAGGTggtt                       MyoD
+V$HNF3B_01                1509 (-)  1.000  0.970  aaaagAAATAataca                    HNF-3beta
+V$OLF1_01                 1686 (+)  1.000  0.965  ggcaagTCCCCagagaagtggg             Olf-1
+V$MYOD_01                 1857 (-)  1.000  0.971  caccACCTGact                       MyoD
+
+
+ Total sequences length=2431
+ Total number of sites found=10
+ Frequency of sites per nucleotide=0.004114
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$OCT1_Q6                   75 (+)  1.000  0.935  tcctatGCAAAtatt                    Oct-1
+V$FOXD3_01                 402 (+)  0.996  0.954  aaATGTTtattc                       FOXD3
+V$GATA3_03                 412 (-)  1.000  0.982  tcAGATCttt                         GATA-3
+V$OCT1_Q6                 1047 (-)  1.000  0.949  gtccTTTGCattttc                    Oct-1
+V$EVI1_06                 1091 (-)  1.000  1.000  ttatCTTGT                          Evi-1
+V$PAX4_01                 1313 (+)  1.000  0.854  gggccTCATGtgtccaggggc              Pax-4
+V$MYOD_01                 1427 (+)  1.000  0.979  ggaCAGGTggtt                       MyoD
+V$HNF3B_01                1529 (-)  1.000  0.970  aaaagAAATAataca                    HNF-3beta
+V$OLF1_01                 1706 (+)  1.000  0.965  ggcaagTCCCCagagaagtggg             Olf-1
+V$MYOD_01                 1877 (-)  1.000  0.971  caccACCTGact                       MyoD
+
+
+ Total sequences length=2358
+ Total number of sites found=10
+ Frequency of sites per nucleotide=0.004241

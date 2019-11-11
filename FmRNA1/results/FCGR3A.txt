@@ -1,0 +1,69 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$CREL_01                   55 (+)  1.000  0.988  tgggaTTTCC                         c-Rel
+V$USF_Q6                  1223 (+)  1.000  1.000  gTCACGtggc                         USF
+V$USF_Q6                  1223 (-)  0.987  0.986  gtcaCGTGGc                         USF
+V$AP1_Q4                  1413 (-)  1.000  0.991  gatgAGTCAct                        AP-1
+V$NKX25_01                1420 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$OCT1_Q6                 1454 (-)  0.888  0.914  ttcaTTTCCattgtc                    Oct-1
+
+
+ Total sequences length=2105
+ Total number of sites found=6
+ Frequency of sites per nucleotide=0.002850
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$USF_Q6                   735 (+)  1.000  1.000  gTCACGtggc                         USF
+V$USF_Q6                   735 (-)  0.987  0.986  gtcaCGTGGc                         USF
+V$AP1_Q4                   925 (-)  1.000  0.991  gatgAGTCAct                        AP-1
+V$NKX25_01                 932 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$OCT1_Q6                  966 (-)  0.888  0.914  ttcaTTTCCattgtc                    Oct-1
+
+
+ Total sequences length=2052
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002437
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$USF_Q6                   660 (+)  1.000  1.000  gTCACGtggc                         USF
+V$USF_Q6                   660 (-)  0.987  0.986  gtcaCGTGGc                         USF
+V$AP1_Q4                   850 (-)  1.000  0.991  gatgAGTCAct                        AP-1
+V$NKX25_01                 857 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$OCT1_Q6                  891 (-)  0.888  0.914  ttcaTTTCCattgtc                    Oct-1
+
+
+ Total sequences length=2292
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002182
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$CREL_01                   87 (+)  1.000  0.988  tgggaTTTCC                         c-Rel
+V$USF_Q6                  1255 (+)  1.000  1.000  gTCACGtggc                         USF
+V$USF_Q6                  1255 (-)  0.987  0.986  gtcaCGTGGc                         USF
+V$AP1_Q4                  1445 (-)  1.000  0.991  gatgAGTCAct                        AP-1
+V$NKX25_01                1452 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$OCT1_Q6                 1486 (-)  0.888  0.914  ttcaTTTCCattgtc                    Oct-1
+
+
+ Total sequences length=2155
+ Total number of sites found=6
+ Frequency of sites per nucleotide=0.002784
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$SRF_Q6                    78 (+)  0.990  0.980  taCCAAAtatggaa                     SRF
+V$CREL_01                  201 (+)  1.000  0.988  tgggaTTTCC                         c-Rel
+V$USF_Q6                  1369 (+)  1.000  1.000  gTCACGtggc                         USF
+V$USF_Q6                  1369 (-)  0.987  0.986  gtcaCGTGGc                         USF
+V$AP1_Q4                  1559 (-)  1.000  0.991  gatgAGTCAct                        AP-1
+V$NKX25_01                1566 (-)  1.000  1.000  CACTTga                            Nkx2-5
+V$OCT1_Q6                 1600 (-)  0.888  0.914  ttcaTTTCCattgtc                    Oct-1
+
+
+ Total sequences length=2146
+ Total number of sites found=7
+ Frequency of sites per nucleotide=0.003262

@@ -1,0 +1,31 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$MYOD_01                  203 (-)  1.000  0.979  caccACCTGctc                       MyoD
+V$EVI1_04                  726 (-)  0.931  0.838  aATCTActcatttct                    Evi-1
+
+
+ Total sequences length=2160
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000926
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$MYOD_01                  203 (-)  1.000  0.979  caccACCTGctc                       MyoD
+V$EVI1_04                  726 (-)  0.931  0.838  aATCTActcatttct                    Evi-1
+
+
+ Total sequences length=2160
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000926
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$CDPCR1_01                 96 (-)  0.929  0.924  gctaTCAATg                         CDP CR1
+V$MYOD_01                  345 (-)  1.000  0.979  caccACCTGctc                       MyoD
+V$EVI1_04                  868 (-)  0.931  0.838  aATCTActcatttct                    Evi-1
+
+
+ Total sequences length=2302
+ Total number of sites found=3
+ Frequency of sites per nucleotide=0.001303

@@ -1,0 +1,61 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                 1804 (-)  1.000  0.974  cagtggcCTTTGtccccct                HNF-4
+V$PAX4_01                 1987 (+)  1.000  0.838  tggggTCATGaggtatccggg              Pax-4
+
+
+ Total sequences length=2093
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000956
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                 1763 (-)  1.000  0.974  cagtggcCTTTGtccccct                HNF-4
+V$PAX4_01                 1946 (+)  1.000  0.838  tggggTCATGaggtatccggg              Pax-4
+
+
+ Total sequences length=2052
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000975
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  198 (+)  1.000  0.946  gcagggcCAAAGcccagcc                HNF-4
+V$HAND1E47_01             1291 (-)  1.000  0.961  gatcCCAGAccctcgg                   Hand1/E47
+V$CREL_01                 2222 (+)  1.000  0.990  cgggcTTTCC                         c-Rel
+
+
+ Total sequences length=2313
+ Total number of sites found=3
+ Frequency of sites per nucleotide=0.001297
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  201 (+)  1.000  0.946  gcagggcCAAAGcccagcc                HNF-4
+V$HAND1E47_01             1294 (-)  1.000  0.961  gatcCCAGAccctcgg                   Hand1/E47
+
+
+ Total sequences length=2198
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000910
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                 1765 (-)  1.000  0.974  cagtggcCTTTGtccccct                HNF-4
+V$PAX4_01                 1948 (+)  1.000  0.838  tggggTCATGaggtatccggg              Pax-4
+
+
+ Total sequences length=2054
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000974
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$HNF4_01                  135 (+)  1.000  0.946  gcagggcCAAAGcccagcc                HNF-4
+V$HAND1E47_01             1228 (-)  1.000  0.961  gatcCCAGAccctcgg                   Hand1/E47
+
+
+ Total sequences length=2132
+ Total number of sites found=2
+ Frequency of sites per nucleotide=0.000938

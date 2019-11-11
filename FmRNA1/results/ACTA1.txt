@@ -1,0 +1,30 @@
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$VMAF_01                   76 (+)  1.000  0.892  actcGCTGAcacaggagga                v-Maf
+V$HNF1_C                   122 (-)  0.829  0.849  tctgtcaattaTTCACt                  HNF-1
+V$HNF1_C                   124 (+)  0.874  0.900  tGTCAAttattcactta                  HNF-1
+V$SRF_Q6                  1775 (+)  1.000  0.980  ctCCATAtacggcc                     SRF
+V$MYOGNF1_01              1790 (+)  0.811  0.772  ggcccgcgttacCTGGGaccgggccaacc      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2103
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002378
+matrix                    position  core   matrix sequence (always the               factor name
+identifier                (strand)  match  match  (+)-strand is shown)
+
+V$VMAF_01                   80 (+)  1.000  0.892  actcGCTGAcacaggagga                v-Maf
+V$HNF1_C                   126 (-)  0.829  0.849  tctgtcaattaTTCACt                  HNF-1
+V$HNF1_C                   128 (+)  0.874  0.900  tGTCAAttattcactta                  HNF-1
+V$SRF_Q6                  1779 (+)  1.000  0.980  ctCCATAtacggcc                     SRF
+V$MYOGNF1_01              1794 (+)  0.811  0.772  ggcccgcgttacCTGGGaccgggccaacc      myogenin
+                                                                                     /
+                                                                                     NF-1
+
+
+ Total sequences length=2107
+ Total number of sites found=5
+ Frequency of sites per nucleotide=0.002373
