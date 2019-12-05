@@ -5,7 +5,7 @@ import os
 import re
 
 # 切换工作路径
-path=r'C:\Users\Administrator\Desktop\ppi'
+path=r'C:\Users\Administrator\Desktop\FmRNA1\ppi'
 os.chdir(path)
 
 # 创建results文件夹
@@ -39,16 +39,18 @@ def postdata(Url,Data,Gene):
     #print(response.status_code)
     # print(response.text)
 
-    pattern = re.compile(r"href='/cgi/generate_task_specific_download_file.pl\?[^\']+download_data_format=tsv[^\']+.tsv'")
+    #pattern = re.compile(r"href='/cgi/generate_task_specific_download_file.pl\?[^\']+download_data_format=tsv[^\']+.tsv'")
+    pattern = re.compile(r"href='(/cgi/generate_task_specific_download_file.pl\?[^\']+download_data_format=tsv[^\']+.tsv)'")
     result = re.findall(pattern, response.text)
     if result:
-        result = 'https://string-db.org' + result[0][6:-1]
+        #result = 'https://string-db.org' + result[0][6:-1]
+        result = 'https://string-db.org' + result[0]
         # https://string-db.org/cgi/generate_task_specific_download_file.pl?taskId=mvJwtHyyzYBK%26download_data_format=tsv%26download_file_name=string_interactions.tsv
     else :
         print(Gene + " Network not found,Please search manually.")
 
-        with open("results/not_found.txt","a") as f:
-            f.write(Gene + "\n")
+        #with open("results/not_found.txt","a") as f:
+            #f.write(Gene + "\n")
 
     return result
 
@@ -74,7 +76,7 @@ if __name__ == "__main__":
             # 基因名
             'species_text_single_identifier': 'Homo sapiens',
             # 物种名
-            #'custom_score': 0.900
+            'custom_score': 0.900
             # 这个阈值无法同时设置太高，只能默认0.400
              }
 

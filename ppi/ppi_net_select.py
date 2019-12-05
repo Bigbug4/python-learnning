@@ -45,12 +45,12 @@ def postdata1(Url,Data,Gene):
     #print(response.status_code)
     #print(response.text)
 
-    pattern = re.compile(r"id='identifier_\d+'")
+    pattern = re.compile(r"id='identifier_(\d+)'")
     result = re.findall(pattern, response.text)
     #print(result)
 
     if result:
-        result = result[0][15:-1]
+        result = result[0]
     else :
         print(Gene + " Network not found,Please search manually.")
 
@@ -62,10 +62,10 @@ def postdata2(Url,Data,Gene):
     #print(response.status_code)
     #print(response.text)
 
-    pattern = re.compile(r"href='/cgi/generate_task_specific_download_file.pl\?[^\']+download_data_format=tsv[^\']+.tsv'")
+    pattern = re.compile(r"href='(/cgi/generate_task_specific_download_file.pl\?[^\']+download_data_format=tsv[^\']+.tsv)'")
     result = re.findall(pattern, response.text)
     if result:
-        result = 'https://string-db.org' + result[0][6:-1]
+        result = 'https://string-db.org' + result[0]
         # https://string-db.org/cgi/generate_task_specific_download_file.pl?taskId=mvJwtHyyzYBK%26download_data_format=tsv%26download_file_name=string_interactions.tsv
     else :
         print(Gene + " Network not found,Does not meet the set threshold.")
