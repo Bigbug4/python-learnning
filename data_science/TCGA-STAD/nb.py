@@ -7,7 +7,7 @@ Created on Mon Dec  9 14:44:44 2019
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import confusion_matrix, precision_score,recall_score
 from sklearn.metrics import roc_curve, auc
 from sklearn.model_selection import train_test_split,cross_val_score,cross_validate 
@@ -63,13 +63,13 @@ for n in k_range:
    
     x = under.iloc[:,:-1]
     y = under.iloc[:,-1]
-    train_x,test_x, train_y, test_y = train_test_split(x,y,test_size = 0.2,random_state=0)
+    train_x,test_x, train_y, test_y = train_test_split(x,y,test_size = 0.2)
 
     # 训练模型
     print('Training cross_val_score ...')
-    rf = RandomForestClassifier(n_estimators=100,random_state=0)
+    clf = GaussianNB() 
 
-    scores = cross_val_score(rf,train_x,train_y,cv=5,scoring='accuracy')  #cv：选择每次测试折数  accuracy：评价指标是准确度,可以省略使用默认值，具体使用参考下面。
+    scores = cross_val_score(clf,train_x,train_y,cv=5,scoring='accuracy')  #cv：选择每次测试折数  accuracy：评价指标是准确度,可以省略使用默认值，具体使用参考下面。
     #scores = cross_val_score(rf,x,y,cv=5,scoring='accuracy')
     cv_scores.append(scores.mean())
     print(scores.mean())
@@ -144,36 +144,36 @@ for train_index, test_index in gss.split(x,y, groups=groups):
     test_y = y.iloc[list(test_index)]
     # 训练模型
     print('Training...')
-    rf = RandomForestClassifier(n_estimators=100,random_state=1)
-    rf = rf.fit(train_x.values, train_y.values)
+    clf = GaussianNB()
+    clf= clf.fit(train_x.values, train_y.values)
     # 进行预测
     print('predicting...')
-    rf_pre = rf.predict(test_x.values)
-    rf_proba = rf.predict_proba(test_x.values)
+    clf_pre = clf.predict(test_x.values)
+    clf_proba = clf.predict_proba(test_x.values)
     
     # 混淆矩阵
-    table = confusion_matrix(test_y.values,rf_pre)
+    table = confusion_matrix(test_y.values,clf_pre)
     print(table)
     
     # 预测评分
-    rf_score = rf.score(test_x.values,test_y.values)
-    score.append(rf_score)
+    clf_score = clf.score(test_x.values,test_y.values)
+    score.append(clf_score)
     print('score: %s' % score)
     
     #召回率和正确率 
-    rf_recall = recall_score(test_y.values,rf_pre)
-    recall.append(rf_recall)
+    clf_recall = recall_score(test_y.values,clf_pre)
+    recall.append(clf_recall)
     print('recall: %s' % recall)
     
-    rf_precision = precision_score(test_y.values,rf_pre)
-    precision.append(rf_precision)
+    clf_precision = precision_score(test_y.values,clf_pre)
+    precision.append(clf_precision)
     print('precision: %s' % precision)
     
     # 预测结果 
-    rf_pre = pd.DataFrame(rf_pre)
-    rf_proba = pd.DataFrame(rf_proba)
-    predicted = pd.concat([predicted, rf_pre],axis=0,sort=False)
-    probablity = pd.concat([probablity, rf_proba],axis=0,sort=False)
+    clf_pre = pd.DataFrame(clf_pre)
+    clf_proba = pd.DataFrame(clf_proba)
+    predicted = pd.concat([predicted, clf_pre],axis=0,sort=False)
+    probablity = pd.concat([probablity, clf_proba],axis=0,sort=False)
     actual = pd.concat([actual, test_y],axis=0,sort=False)
 
 actual.index = predicted.index
@@ -199,4 +199,3 @@ plt.xlabel('1 - Specificity')
 plt.ylabel('Sensitivity')
 plt.legend(loc='lower right')
 plt.show()
-
