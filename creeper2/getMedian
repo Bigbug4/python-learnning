@@ -1,0 +1,30 @@
+# -*- coding:utf-8 -*-
+class Solution:
+	def Insert(self, num):
+		# write code here
+		self.num = [num[:i] for i in range(1, len(num) + 1)]
+
+	def GetMedian(self):
+		# write code here
+		num = self.num
+		res = num[0]
+		for i in range(1, len(num)):
+			l = len(num[i])
+			num[i].sort()
+			mid = l // 2
+			if l % 2:
+				med = num[i][mid]
+			else:
+				med = (num[i][mid - 1] + num[i][mid]) / 2.0
+
+			res.append(med)
+
+		return res
+
+
+values = [5, 2, 3, 4, 1, 6, 7, 0, 8]
+
+a = Solution()
+a.Insert(values)
+print a.num
+print a.GetMedian()
